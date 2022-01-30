@@ -1,0 +1,105 @@
+08-25 13:42:38.357: D/dalvikvm(9883): WAIT_FOR_CONCURRENT_GC blocked 0ms
+08-25 13:42:38.396: D/dalvikvm(9883): GC_EXPLICIT freed 544K, 14% free 7889K/9159K, paused 12ms+2ms, total 41ms
+08-25 13:42:47.264: D/skia(9883): onFlyCompress
+08-25 13:42:51.154: D/dalvikvm(9883): WAIT_FOR_CONCURRENT_GC blocked 0ms
+08-25 13:42:51.201: D/dalvikvm(9883): GC_EXPLICIT freed 12K, 14% free 7913K/9159K, paused 6ms+2ms, total 47ms
+08-25 13:43:12.818: D/TAG(9883): savePhoto(): Bitmap WxH is 74x68
+08-25 13:43:13.123: D/TAG(9883): savePhoto(): Bitmap color-15527149
+08-25 13:43:58.107: W/jdwp(9883): Debugger is telling the VM to exit with code=1
+08-25 13:43:58.107: I/dalvikvm(9883): GC lifetime allocation: 69074 bytes
+08-25 13:52:22.662: W/ActivityThread(10058): Application com.camera.preview is waiting for the debugger on port 8100...
+08-25 13:52:22.686: I/System.out(10058): Sending WAIT chunk
+08-25 13:52:22.693: I/dalvikvm(10058): Debugger is active
+08-25 13:52:22.889: I/System.out(10058): Debugger has connected
+08-25 13:52:22.889: I/System.out(10058): waiting for debugger to settle...
+08-25 13:52:23.092: I/System.out(10058): waiting for debugger to settle...
+08-25 13:52:23.295: I/System.out(10058): waiting for debugger to settle...
+08-25 13:52:23.498: I/System.out(10058): waiting for debugger to settle...
+08-25 13:52:23.693: I/System.out(10058): waiting for debugger to settle...
+08-25 13:52:23.904: I/System.out(10058): waiting for debugger to settle...
+08-25 13:52:24.100: I/System.out(10058): waiting for debugger to settle...
+08-25 13:52:24.303: I/System.out(10058): debugger has settled (1423)
+08-25 13:52:25.600: D/dalvikvm(10058): threadid=1: still suspended after undo (sc=1 dc=1)
+08-25 13:52:29.037: E/SensorManager(10058): thread start
+08-25 13:52:29.045: D/SensorManager(10058): registerListener :: handle = 1  name= BMA254 Acceleration Sensor delay= 66667 Listener= com.camera.preview.CameraPreview@41f46098
+08-25 13:52:29.053: D/SensorManager(10058): unregisterListener::  Listener= com.camera.preview.CameraPreview@41f46098
+08-25 13:52:29.053: D/Sensors(10058): Remain listener = Sending .. normal delay 200ms
+08-25 13:52:29.061: I/Sensors(10058): sendDelay --- 200000000
+08-25 13:52:29.061: D/SensorManager(10058): JNI - sendDelay
+08-25 13:52:29.061: I/SensorManager(10058): Set normal delay = true
+08-25 13:52:29.061: D/SensorManager(10058): registerListener :: handle = 1  name= BMA254 Acceleration Sensor delay= 66667 Listener= com.camera.preview.CameraPreview@41f46098
+08-25 13:52:29.459: D/dalvikvm(10058): WAIT_FOR_CONCURRENT_GC blocked 0ms
+08-25 13:52:29.498: D/dalvikvm(10058): GC_EXPLICIT freed 75K, 9% free 7422K/8131K, paused 5ms+2ms, total 45ms
+08-25 13:52:29.709: D/dalvikvm(10058): GC_FOR_ALLOC freed 50K, 9% free 7422K/8131K, paused 17ms, total 17ms
+08-25 13:52:29.709: I/dalvikvm-heap(10058): Grow heap (frag case) to 8.210MB for 460816-byte allocation
+08-25 13:52:29.732: D/dalvikvm(10058): GC_FOR_ALLOC freed 0K, 9% free 7872K/8647K, paused 26ms, total 26ms
+08-25 13:52:29.795: D/dalvikvm(10058): GC_CONCURRENT freed 1K, 9% free 7879K/8647K, paused 12ms+13ms, total 59ms
+08-25 13:52:29.889: D/dalvikvm(10058): WAIT_FOR_CONCURRENT_GC blocked 0ms
+08-25 13:52:29.920: D/dalvikvm(10058): GC_EXPLICIT freed 33K, 9% free 7886K/8647K, paused 3ms+3ms, total 33ms
+08-25 13:52:30.100: D/dalvikvm(10058): GC_FOR_ALLOC freed 48K, 9% free 7886K/8647K, paused 15ms, total 15ms
+08-25 13:52:30.100: I/dalvikvm-heap(10058): Grow heap (frag case) to 8.664MB for 460816-byte allocation
+08-25 13:52:30.131: D/dalvikvm(10058): GC_CONCURRENT freed 0K, 9% free 8336K/9159K, paused 11ms+4ms, total 36ms
+08-25 13:52:30.131: D/dalvikvm(10058): WAIT_FOR_CONCURRENT_GC blocked 13ms
+08-25 13:52:30.131: D/dalvikvm(10058): WAIT_FOR_CONCURRENT_GC blocked 22ms
+08-25 13:52:30.811: I/Choreographer(10058): Skipped 102 frames!  The application may be doing too much work on its main thread.
+08-25 13:54:21.115: W/jdwp(10058): Debugger is telling the VM to exit with code=1
+08-25 13:54:21.115: I/dalvikvm(10058): GC lifetime allocation: 69074 bytes
+08-25 13:54:45.631: I/System.out(10168): Sending WAIT chunk
+08-25 13:54:45.631: W/ActivityThread(10168): Application com.camera.preview is waiting for the debugger on port 8100...
+08-25 13:54:45.646: I/dalvikvm(10168): Debugger is active
+08-25 13:54:45.834: I/System.out(10168): Debugger has connected
+08-25 13:54:45.834: I/System.out(10168): waiting for debugger to settle...
+08-25 13:54:46.037: I/System.out(10168): waiting for debugger to settle...
+08-25 13:54:46.240: I/System.out(10168): waiting for debugger to settle...
+08-25 13:54:46.436: I/System.out(10168): waiting for debugger to settle...
+08-25 13:54:46.639: I/System.out(10168): waiting for debugger to settle...
+08-25 13:54:46.842: I/System.out(10168): waiting for debugger to settle...
+08-25 13:54:47.037: I/System.out(10168): waiting for debugger to settle...
+08-25 13:54:47.240: I/System.out(10168): debugger has settled (1488)
+08-25 13:54:47.592: E/SensorManager(10168): thread start
+08-25 13:54:47.592: D/SensorManager(10168): registerListener :: handle = 1  name= BMA254 Acceleration Sensor delay= 66667 Listener= com.camera.preview.CameraPreview@41f48b18
+08-25 13:54:48.053: D/dalvikvm(10168): WAIT_FOR_CONCURRENT_GC blocked 1ms
+08-25 13:54:48.100: D/dalvikvm(10168): GC_EXPLICIT freed 82K, 9% free 7420K/8131K, paused 4ms+3ms, total 41ms
+08-25 13:54:48.264: D/dalvikvm(10168): GC_FOR_ALLOC freed 50K, 9% free 7420K/8131K, paused 16ms, total 16ms
+08-25 13:54:48.271: I/dalvikvm-heap(10168): Grow heap (frag case) to 8.208MB for 460816-byte allocation
+08-25 13:54:48.303: D/dalvikvm(10168): GC_CONCURRENT freed 0K, 9% free 7870K/8647K, paused 12ms+5ms, total 34ms
+08-25 13:54:48.303: D/dalvikvm(10168): WAIT_FOR_CONCURRENT_GC blocked 18ms
+08-25 13:54:48.404: D/dalvikvm(10168): WAIT_FOR_CONCURRENT_GC blocked 0ms
+08-25 13:54:48.436: D/dalvikvm(10168): GC_EXPLICIT freed 34K, 9% free 7884K/8647K, paused 3ms+3ms, total 32ms
+08-25 13:54:48.639: D/dalvikvm(10168): GC_FOR_ALLOC freed 48K, 9% free 7884K/8647K, paused 19ms, total 19ms
+08-25 13:54:48.639: I/dalvikvm-heap(10168): Grow heap (frag case) to 8.663MB for 460816-byte allocation
+08-25 13:54:48.670: D/dalvikvm(10168): GC_CONCURRENT freed 0K, 10% free 8334K/9159K, paused 12ms+3ms, total 30ms
+08-25 13:54:48.670: D/dalvikvm(10168): WAIT_FOR_CONCURRENT_GC blocked 16ms
+08-25 13:54:48.670: D/dalvikvm(10168): WAIT_FOR_CONCURRENT_GC blocked 18ms
+08-25 13:54:49.342: I/Choreographer(10168): Skipped 100 frames!  The application may be doing too much work on its main thread.
+08-25 13:55:21.584: W/jdwp(10168): Debugger is telling the VM to exit with code=1
+08-25 13:55:21.584: I/dalvikvm(10168): GC lifetime allocation: 69074 bytes
+08-25 13:55:28.287: W/ActivityThread(10231): Application com.camera.preview is waiting for the debugger on port 8100...
+08-25 13:55:28.295: I/System.out(10231): Sending WAIT chunk
+08-25 13:55:28.295: I/dalvikvm(10231): Debugger is active
+08-25 13:55:28.490: I/System.out(10231): Debugger has connected
+08-25 13:55:28.490: I/System.out(10231): waiting for debugger to settle...
+08-25 13:55:28.693: I/System.out(10231): waiting for debugger to settle...
+08-25 13:55:28.896: I/System.out(10231): waiting for debugger to settle...
+08-25 13:55:29.100: I/System.out(10231): waiting for debugger to settle...
+08-25 13:55:29.295: I/System.out(10231): waiting for debugger to settle...
+08-25 13:55:29.498: I/System.out(10231): waiting for debugger to settle...
+08-25 13:55:29.693: I/System.out(10231): waiting for debugger to settle...
+08-25 13:55:29.896: I/System.out(10231): debugger has settled (1457)
+08-25 13:55:31.232: D/dalvikvm(10231): threadid=1: still suspended after undo (sc=1 dc=1)
+08-25 13:55:41.521: E/SensorManager(10231): thread start
+08-25 13:55:41.537: D/SensorManager(10231): registerListener :: handle = 1  name= BMA254 Acceleration Sensor delay= 66667 Listener= com.camera.preview.CameraPreview@41f499c8
+08-25 13:55:49.092: I/Choreographer(10231): Skipped 444 frames!  The application may be doing too much work on its main thread.
+08-25 13:55:49.521: D/dalvikvm(10231): WAIT_FOR_CONCURRENT_GC blocked 0ms
+08-25 13:55:49.561: D/dalvikvm(10231): GC_EXPLICIT freed 86K, 9% free 7434K/8131K, paused 3ms+3ms, total 32ms
+08-25 13:55:49.725: D/dalvikvm(10231): GC_FOR_ALLOC freed 50K, 9% free 7433K/8131K, paused 16ms, total 16ms
+08-25 13:55:49.725: I/dalvikvm-heap(10231): Grow heap (frag case) to 8.222MB for 460816-byte allocation
+08-25 13:55:49.748: D/dalvikvm(10231): GC_FOR_ALLOC freed 0K, 9% free 7883K/8647K, paused 17ms, total 17ms
+08-25 13:55:49.795: D/dalvikvm(10231): GC_CONCURRENT freed <1K, 9% free 7890K/8647K, paused 12ms+12ms, total 45ms
+08-25 13:55:49.889: D/dalvikvm(10231): WAIT_FOR_CONCURRENT_GC blocked 0ms
+08-25 13:55:49.920: D/dalvikvm(10231): GC_EXPLICIT freed 33K, 9% free 7898K/8647K, paused 2ms+2ms, total 29ms
+08-25 13:55:50.092: D/dalvikvm(10231): GC_FOR_ALLOC freed 48K, 9% free 7898K/8647K, paused 16ms, total 16ms
+08-25 13:55:50.092: I/dalvikvm-heap(10231): Grow heap (frag case) to 8.675MB for 460816-byte allocation
+08-25 13:55:50.107: D/dalvikvm(10231): GC_FOR_ALLOC freed 0K, 9% free 8348K/9159K, paused 17ms, total 17ms
+08-25 13:55:50.139: D/dalvikvm(10231): GC_CONCURRENT freed <1K, 9% free 8356K/9159K, paused 12ms+2ms, total 30ms
+08-25 13:55:50.811: I/Choreographer(10231): Skipped 100 frames!  The application may be doing too much work on its main thread.
